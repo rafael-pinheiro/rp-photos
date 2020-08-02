@@ -1,3 +1,10 @@
 {
-  "baseUrl": "https://rafael-pinheiro.github.io/rp-photos/"
+  "baseUrl": "https://rafael-pinheiro.github.io/rp-photos/",
+  "items": [{
+    "title": "Oi",
+    "url": "DSC09360.jpg"
+  }, {
+    "title": "Oi",
+    "url": "DSC09393.jpg"
+  }]
 }
